@@ -1,0 +1,9 @@
+/.clj-kondo/.cache
+/.clj-kondo/imports
+/.cpcache
+/.idea
+/.scribe
+/metabase
+/.nrepl-port
+/*.hprof
+/output-*.txt
